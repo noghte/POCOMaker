@@ -87,7 +87,7 @@ namespace Scratch
 
         // Settings
         string ConnectionStringName = "MyDbContext";   // Uses last connection string in config if not specified
-        string ConnectionString = "Data Source=server\\sql2012;Initial Catalog=Setan;Integrated Security=False;User ID=sa;Password=power12#$;Application Name=EntityFramework Reverse POCO Generator";   // Uses last connection string in config if not specified
+        string ConnectionString = "Data Source=SERVERADDRESS;Initial Catalog=DBNAME;Integrated Security=False;User ID=USERNAME;Password=PASSWORD;Application Name=EntityFramework Reverse POCO Generator";   // Uses last connection string in config if not specified
         bool IncludeViews = true;
         string DbContextName = "MyDbContext";
         string ConfigurationClassName = "Configuration";
