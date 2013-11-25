@@ -12,6 +12,7 @@ class Product
  public virtual User User {get; set;}
  public virtual User User1 {get; set;}
 }
+
 To make it meaningful I've made some changes to generate like this:
 class Product
 {
