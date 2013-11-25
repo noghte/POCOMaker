@@ -23,3 +23,5 @@ To make it meaningful I've made some changes to generate like this:
     public virtual User User_OrderedBy {get; set;}
     public virtual User User_ConfirmedBy {get; set;}
     }
+    
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/noghte/pocomaker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
